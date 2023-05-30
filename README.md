@@ -1,6 +1,6 @@
 # Maze-Simulation
 This is an Open GL Project for maze generation and solving using DFS and Djikstra Algorithm.
-Programming Language :  C++
+Programming Language :  C++ \n
 To run the code :
 * Download all freeglut libraries.
 * In Ubunutu :  
